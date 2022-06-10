@@ -1,0 +1,90 @@
+.logo{
+    width: 100px;
+}
+img{
+    width: 100%;
+}
+body{
+    background-color: rgb(38, 245, 76);
+}
+.main{
+    background-color: #ffff;
+    margin-bottom: 0;
+}
+.futter{
+    padding: 10px 0;
+    background-color: black;
+    font-size: 40px;
+    color: #ffff; 
+    text-align: start;
+    height: 100%;
+    word-spacing: 10px;
+    
+}
+.ff>a{
+    color: #ffff;
+}
+.wepon{
+    width: 30px;
+}
+.zagolovok{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to bottom, #4b1264, #49418d, #4469af, #4b8fca, #65b5e0, #4ccaf0, #2adff9, #0ef3fa, #00fae5, #00ffbd, #00ff83, #00ff2a);}
+.nav-item .nav-link{
+    font-family: 'Press Start 2P', cursive;
+}
+.font{
+    font-family: 'Press Start 2P', cursive;
+}
+.bg-star{
+    background-image: url(bg-star1.png);
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.bg-cloudy{
+    background-image: url(bg-cloudy.png);
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-position: center center;
+}
+p{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+h2{
+    font-family: 'Russo One', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+h3{
+    font-family: 'Russo One', sans-serif;
+    font-size: 25px; 
+}
+.wepon{
+padding-right: 2px important;
+transition: 0.5s;
+}
+.wepon:hover{
+    transform: scale(2);
+}
+
+li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    
+}
+li>p{
+margin-left: 10px;
+}
+.ff>p{
+    font-size: 1rem ;
+    color: white;
+}
+.ff>p{
+    align-items: center;
+}
+
+
